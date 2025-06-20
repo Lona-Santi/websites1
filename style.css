@@ -1,0 +1,34 @@
+.gallery img{
+    width:100%
+}
+
+h4{
+    color: palevioletred;
+    font-family: sans-serif;
+}
+
+h2{
+    color: palevioletred;
+    font-family: sans-serif;
+}
+
+#menu{
+    Width: 100%;
+    Height: 40px;
+    background-color: pink;
+    padding-top: 12px;
+}
+
+#menu a{
+    color:black
+    font-family: helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color:blueviolet
+}
